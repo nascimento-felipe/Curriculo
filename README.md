@@ -1,2 +1,2 @@
 # Currículo
- Template de currículo feito para execução de atividade escolar.
+ Template de currículo feito para atividade escolar.
